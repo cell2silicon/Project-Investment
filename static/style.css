@@ -1,0 +1,11 @@
+#tableau {
+    height: 200px;
+}
+
+.col-md-12 {
+    background-image: url(stocks.jpg);
+    color: white;
+}
+ p {
+     text-align: center;
+ }
